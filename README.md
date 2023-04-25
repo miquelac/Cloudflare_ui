@@ -8,6 +8,7 @@
 ![image](img/app.png)
 
 <br>
+
 ### What it does (need to detail specific functions)
 
 * Opens the authentication file stored in the system.
