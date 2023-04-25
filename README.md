@@ -36,4 +36,4 @@
 
 Here is how it looks like after applying a filter.
 
-![image](img/appQery.PNG)
+![image](img/appQuery.PNG)
