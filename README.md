@@ -5,7 +5,7 @@
 
 <br>
 
-![image](app.png)
+![image](img/app.png)
 
 <br>
 ### What it does (need to detail specific functions)
@@ -35,4 +35,4 @@
 
 Here is how it looks like after applying a filter.
 
-![image](appQuery.png)
+![image](img/appQuery.png)
