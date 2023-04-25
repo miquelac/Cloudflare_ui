@@ -5,7 +5,7 @@
 
 <br>
 
-![image](img/app.png)
+![image](img/app.PNG)
 
 <br>
 
@@ -36,4 +36,4 @@
 
 Here is how it looks like after applying a filter.
 
-![image](img/appQuery.png)
+![image](img/appQery.PNG)
