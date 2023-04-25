@@ -5,6 +5,9 @@
 
 <br>
 
+![image](app.png)
+
+<br>
 ### What it does (need to detail specific functions)
 
 * Opens the authentication file stored in the system.
@@ -32,5 +35,5 @@
 
 Here is how it looks like after applying a filter.
 
-![image](img/app.png)
+![image](appQuery.png)
 
